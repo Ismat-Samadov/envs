@@ -1,0 +1,2 @@
+# venvs
+Scrapy Virtual environments
