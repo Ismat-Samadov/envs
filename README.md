@@ -1,2 +1,2 @@
-# venvs
+# Scrapy
 Scrapy Virtual environments
