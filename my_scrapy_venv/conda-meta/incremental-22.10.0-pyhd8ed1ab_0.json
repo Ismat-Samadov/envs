@@ -1,0 +1,197 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\Users\\Ismat\\.conda\\pkgs\\incremental-22.10.0-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/incremental-22.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/incremental-22.10.0.dist-info/LICENSE",
+    "Lib/site-packages/incremental-22.10.0.dist-info/METADATA",
+    "Lib/site-packages/incremental-22.10.0.dist-info/RECORD",
+    "Lib/site-packages/incremental-22.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/incremental-22.10.0.dist-info/WHEEL",
+    "Lib/site-packages/incremental-22.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/incremental-22.10.0.dist-info/entry_points.txt",
+    "Lib/site-packages/incremental-22.10.0.dist-info/top_level.txt",
+    "Lib/site-packages/incremental/__init__.py",
+    "Lib/site-packages/incremental/_version.py",
+    "Lib/site-packages/incremental/py.typed",
+    "Lib/site-packages/incremental/tests/__init__.py",
+    "Lib/site-packages/incremental/tests/test_update.py",
+    "Lib/site-packages/incremental/tests/test_version.py",
+    "Lib/site-packages/incremental/update.py",
+    "Lib/site-packages/incremental/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/incremental/__pycache__/_version.cpython-310.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/test_update.cpython-310.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/test_version.cpython-310.pyc",
+    "Lib/site-packages/incremental/__pycache__/update.cpython-310.pyc"
+  ],
+  "fn": "incremental-22.10.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\Ismat\\.conda\\pkgs\\incremental-22.10.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "3e8ffb42d8afbbec87d92a3aa46c0969",
+  "name": "incremental",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Ismat\\.conda\\pkgs\\incremental-22.10.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "d043bc8899b4695de1f4511d8f507b927e11723b981ce600fa3ef7b73954afa5",
+        "sha256_in_prefix": "d043bc8899b4695de1f4511d8f507b927e11723b981ce600fa3ef7b73954afa5",
+        "size_in_bytes": 1945
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "684d9259098f03452fd4ab6a20c66d0774891a93fd6911cfc9b3506c3661078e",
+        "sha256_in_prefix": "684d9259098f03452fd4ab6a20c66d0774891a93fd6911cfc9b3506c3661078e",
+        "size_in_bytes": 6039
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "9e1a1ac1751a6fecead9652fa5b405da225f8e9fe69843ad236fc8028c8aa162",
+        "sha256_in_prefix": "9e1a1ac1751a6fecead9652fa5b405da225f8e9fe69843ad236fc8028c8aa162",
+        "size_in_bytes": 1732
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "2a461a1707a01ad1ad93e46b999d9cdeb63b7dc838d0775d6686922a3ac07156",
+        "sha256_in_prefix": "2a461a1707a01ad1ad93e46b999d9cdeb63b7dc838d0775d6686922a3ac07156",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "57aea9d93a84c205d43930f88c19d031468fa1ae6292b92715b2384cb1bd8f39",
+        "sha256_in_prefix": "57aea9d93a84c205d43930f88c19d031468fa1ae6292b92715b2384cb1bd8f39",
+        "size_in_bytes": 70
+      },
+      {
+        "_path": "site-packages/incremental-22.10.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "755a58c22e9a83c4e5a1c0431007c3ec7c9d9485a856687a11232fd388b351d7",
+        "sha256_in_prefix": "755a58c22e9a83c4e5a1c0431007c3ec7c9d9485a856687a11232fd388b351d7",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/incremental/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d791cab1c1d7358aa2cb1c9fe0f4f49fd15a5ac0de6f9e18445b1f2f8d9a3c72",
+        "sha256_in_prefix": "d791cab1c1d7358aa2cb1c9fe0f4f49fd15a5ac0de6f9e18445b1f2f8d9a3c72",
+        "size_in_bytes": 11093
+      },
+      {
+        "_path": "site-packages/incremental/_version.py",
+        "path_type": "hardlink",
+        "sha256": "395a3e55ae95d7c4b8511fab8990bc85d4bb0f02f9fc16294d7fdbde2cc34e5f",
+        "sha256_in_prefix": "395a3e55ae95d7c4b8511fab8990bc85d4bb0f02f9fc16294d7fdbde2cc34e5f",
+        "size_in_bytes": 273
+      },
+      {
+        "_path": "site-packages/incremental/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/incremental/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/incremental/tests/test_update.py",
+        "path_type": "hardlink",
+        "sha256": "1ad2886c0b370a5ec815627218c9575fcd6844a61b2cf5d65caa29e040ebd0cd",
+        "sha256_in_prefix": "1ad2886c0b370a5ec815627218c9575fcd6844a61b2cf5d65caa29e040ebd0cd",
+        "size_in_bytes": 34010
+      },
+      {
+        "_path": "site-packages/incremental/tests/test_version.py",
+        "path_type": "hardlink",
+        "sha256": "d95eaa23d10bc981832ce4eec594f9b3193d39eea7e1d485aeebdd9de35d4a1e",
+        "sha256_in_prefix": "d95eaa23d10bc981832ce4eec594f9b3193d39eea7e1d485aeebdd9de35d4a1e",
+        "size_in_bytes": 18554
+      },
+      {
+        "_path": "site-packages/incremental/update.py",
+        "path_type": "hardlink",
+        "sha256": "cb27142f5adafc264e62959d45610253ae9af9c31c4f2716aaf230ca07b26673",
+        "sha256_in_prefix": "cb27142f5adafc264e62959d45610253ae9af9c31c4f2716aaf230ca07b26673",
+        "size_in_bytes": 8882
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/_version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/test_update.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/test_version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/update.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5a31d75899b1f0e40d9b366921f35981509e9537ca0150e590c9b9b0daf30f21",
+  "size": 18667,
+  "subdir": "noarch",
+  "timestamp": 1665859549369,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/incremental-22.10.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "22.10.0"
+}

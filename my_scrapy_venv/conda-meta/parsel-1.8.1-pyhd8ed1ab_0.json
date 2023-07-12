@@ -1,0 +1,180 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "cssselect >=0.9",
+    "jmespath",
+    "lxml",
+    "packaging",
+    "python >=3.7",
+    "w3lib >=1.19.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Ismat\\.conda\\pkgs\\parsel-1.8.1-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/parsel-1.8.1.dist-info/INSTALLER",
+    "Lib/site-packages/parsel-1.8.1.dist-info/LICENSE",
+    "Lib/site-packages/parsel-1.8.1.dist-info/METADATA",
+    "Lib/site-packages/parsel-1.8.1.dist-info/RECORD",
+    "Lib/site-packages/parsel-1.8.1.dist-info/REQUESTED",
+    "Lib/site-packages/parsel-1.8.1.dist-info/WHEEL",
+    "Lib/site-packages/parsel-1.8.1.dist-info/direct_url.json",
+    "Lib/site-packages/parsel-1.8.1.dist-info/top_level.txt",
+    "Lib/site-packages/parsel/__init__.py",
+    "Lib/site-packages/parsel/csstranslator.py",
+    "Lib/site-packages/parsel/py.typed",
+    "Lib/site-packages/parsel/selector.py",
+    "Lib/site-packages/parsel/utils.py",
+    "Lib/site-packages/parsel/xpathfuncs.py",
+    "Lib/site-packages/parsel/__pycache__/__init__.cpython-310.pyc",
+    "Lib/site-packages/parsel/__pycache__/csstranslator.cpython-310.pyc",
+    "Lib/site-packages/parsel/__pycache__/selector.cpython-310.pyc",
+    "Lib/site-packages/parsel/__pycache__/utils.cpython-310.pyc",
+    "Lib/site-packages/parsel/__pycache__/xpathfuncs.cpython-310.pyc"
+  ],
+  "fn": "parsel-1.8.1-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\Ismat\\.conda\\pkgs\\parsel-1.8.1-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "dcf4e6ec231c3a07b8a55d4130ff7a26",
+  "name": "parsel",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Ismat\\.conda\\pkgs\\parsel-1.8.1-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "1238a5c6812856a2696ad0530edad2495ec030489c3e63c1f890f9541672ad97",
+        "sha256_in_prefix": "1238a5c6812856a2696ad0530edad2495ec030489c3e63c1f890f9541672ad97",
+        "size_in_bytes": 1521
+      },
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "9bd54ac2dad3942dc8b636b2a67126b240adf07d309008b2d1abb089628de6a0",
+        "sha256_in_prefix": "9bd54ac2dad3942dc8b636b2a67126b240adf07d309008b2d1abb089628de6a0",
+        "size_in_bytes": 10624
+      },
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "b099de0eeed133a76b0e0a311fdac20dfcb618507cdc35e1d99c3f8f69f3243b",
+        "sha256_in_prefix": "b099de0eeed133a76b0e0a311fdac20dfcb618507cdc35e1d99c3f8f69f3243b",
+        "size_in_bytes": 1349
+      },
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "6bece9151209cceab941fba10736e1880d5e1d3ccd0899fc39d46f85d357d119",
+        "sha256_in_prefix": "6bece9151209cceab941fba10736e1880d5e1d3ccd0899fc39d46f85d357d119",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "10d6dc5d3aa3757ab6c19d5bd200c83715657d294a62bd5280ddc8302830594d",
+        "sha256_in_prefix": "10d6dc5d3aa3757ab6c19d5bd200c83715657d294a62bd5280ddc8302830594d",
+        "size_in_bytes": 102
+      },
+      {
+        "_path": "site-packages/parsel-1.8.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "763c59c3707d869b83496982fbd03cbc49f661a60c04d82ff2fe2c0618af2bb0",
+        "sha256_in_prefix": "763c59c3707d869b83496982fbd03cbc49f661a60c04d82ff2fe2c0618af2bb0",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "site-packages/parsel/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "688197f4faf130934bbdbbdc0db944c58e89175f3c2cf750d7557ca6a55a160e",
+        "sha256_in_prefix": "688197f4faf130934bbdbbdc0db944c58e89175f3c2cf750d7557ca6a55a160e",
+        "size_in_bytes": 427
+      },
+      {
+        "_path": "site-packages/parsel/csstranslator.py",
+        "path_type": "hardlink",
+        "sha256": "4665b3c6c0cea5b98b6ec3aae0138b527c722863a967f0d28aee92a8f3f2fe9e",
+        "sha256_in_prefix": "4665b3c6c0cea5b98b6ec3aae0138b527c722863a967f0d28aee92a8f3f2fe9e",
+        "size_in_bytes": 5258
+      },
+      {
+        "_path": "site-packages/parsel/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/parsel/selector.py",
+        "path_type": "hardlink",
+        "sha256": "c455f48f98c0b43d932662ed9e451976d351a1793aa96a90d861632556e75251",
+        "sha256_in_prefix": "c455f48f98c0b43d932662ed9e451976d351a1793aa96a90d861632556e75251",
+        "size_in_bytes": 28634
+      },
+      {
+        "_path": "site-packages/parsel/utils.py",
+        "path_type": "hardlink",
+        "sha256": "18c8e2a688fe34388d0148d56a911b565589c9b00d48d8ee9b96187b5b06dcb1",
+        "sha256_in_prefix": "18c8e2a688fe34388d0148d56a911b565589c9b00d48d8ee9b96187b5b06dcb1",
+        "size_in_bytes": 2942
+      },
+      {
+        "_path": "site-packages/parsel/xpathfuncs.py",
+        "path_type": "hardlink",
+        "sha256": "859cc3ab1e1062c4becd2a3d7cb1d3cf9cde68930ee56113bdcda6958ea3961d",
+        "sha256_in_prefix": "859cc3ab1e1062c4becd2a3d7cb1d3cf9cde68930ee56113bdcda6958ea3961d",
+        "size_in_bytes": 1924
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/csstranslator.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/selector.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/utils.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/parsel/__pycache__/xpathfuncs.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b109fc93ca898711e820a303d0f2411ac2132e7c1c1890a18981b188de04edbd",
+  "size": 21219,
+  "subdir": "noarch",
+  "timestamp": 1681832374950,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/parsel-1.8.1-pyhd8ed1ab_0.conda",
+  "version": "1.8.1"
+}

@@ -1,0 +1,347 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libxml2 >=2.10.3,<2.11.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Ismat\\.conda\\pkgs\\libxslt-1.1.37-h2bbff1b_0",
+  "features": "",
+  "files": [
+    "Library/bin/libexslt.dll",
+    "Library/bin/libxslt.dll",
+    "Library/bin/xsltproc.exe",
+    "Library/include/libexslt/exslt.h",
+    "Library/include/libexslt/exsltconfig.h",
+    "Library/include/libexslt/exsltexports.h",
+    "Library/include/libexslt/libexslt.h",
+    "Library/include/libxslt/attributes.h",
+    "Library/include/libxslt/documents.h",
+    "Library/include/libxslt/extensions.h",
+    "Library/include/libxslt/extra.h",
+    "Library/include/libxslt/functions.h",
+    "Library/include/libxslt/imports.h",
+    "Library/include/libxslt/keys.h",
+    "Library/include/libxslt/libxslt.h",
+    "Library/include/libxslt/namespaces.h",
+    "Library/include/libxslt/numbersInternals.h",
+    "Library/include/libxslt/pattern.h",
+    "Library/include/libxslt/preproc.h",
+    "Library/include/libxslt/security.h",
+    "Library/include/libxslt/templates.h",
+    "Library/include/libxslt/transform.h",
+    "Library/include/libxslt/trio.h",
+    "Library/include/libxslt/triodef.h",
+    "Library/include/libxslt/variables.h",
+    "Library/include/libxslt/win32config.h",
+    "Library/include/libxslt/xslt.h",
+    "Library/include/libxslt/xsltInternals.h",
+    "Library/include/libxslt/xsltconfig.h",
+    "Library/include/libxslt/xsltexports.h",
+    "Library/include/libxslt/xsltlocale.h",
+    "Library/include/libxslt/xsltutils.h",
+    "Library/lib/libexslt.lib",
+    "Library/lib/libexslt_a.lib",
+    "Library/lib/libxslt.lib",
+    "Library/lib/libxslt_a.lib",
+    "Library/lib/pkgconfig/libexslt.pc",
+    "Library/lib/pkgconfig/libxslt.pc"
+  ],
+  "fn": "libxslt-1.1.37-h2bbff1b_0.conda",
+  "legacy_bz2_md5": "cd47fbd28009b1db6f9fc0d54267c074",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\Ismat\\.conda\\pkgs\\libxslt-1.1.37-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "a0875e6e18345f6904a3484575bf736a",
+  "name": "libxslt",
+  "package_tarball_full_path": "C:\\Users\\Ismat\\.conda\\pkgs\\libxslt-1.1.37-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/libexslt.dll",
+        "path_type": "hardlink",
+        "sha256": "43c4f4d3b7505db4af3b3c1f0b0d4061ef55b76fd569c8627d53c85ce2878984",
+        "sha256_in_prefix": "43c4f4d3b7505db4af3b3c1f0b0d4061ef55b76fd569c8627d53c85ce2878984",
+        "size_in_bytes": 82944
+      },
+      {
+        "_path": "Library/bin/libxslt.dll",
+        "path_type": "hardlink",
+        "sha256": "b8c5e8daf3c01c453bf0044b5bc54cef6f32ae93ca4f1c751bc276c85ab87bd0",
+        "sha256_in_prefix": "b8c5e8daf3c01c453bf0044b5bc54cef6f32ae93ca4f1c751bc276c85ab87bd0",
+        "size_in_bytes": 218112
+      },
+      {
+        "_path": "Library/bin/xsltproc.exe",
+        "path_type": "hardlink",
+        "sha256": "562fd798f1e46896411ab2a4a32a7431d18e402f76e0c00c5621060ddfda4136",
+        "sha256_in_prefix": "562fd798f1e46896411ab2a4a32a7431d18e402f76e0c00c5621060ddfda4136",
+        "size_in_bytes": 23552
+      },
+      {
+        "_path": "Library/include/libexslt/exslt.h",
+        "path_type": "hardlink",
+        "sha256": "7925b9b4c2407b049400d2ea93b00612253c6f605b08d4726ae1e77b3ee72925",
+        "sha256_in_prefix": "7925b9b4c2407b049400d2ea93b00612253c6f605b08d4726ae1e77b3ee72925",
+        "size_in_bytes": 3114
+      },
+      {
+        "_path": "Library/include/libexslt/exsltconfig.h",
+        "path_type": "hardlink",
+        "sha256": "d9f9087668ee4618d118b27f29b2e1722d7257f02b828e53d7db5c51b1f19adb",
+        "sha256_in_prefix": "d9f9087668ee4618d118b27f29b2e1722d7257f02b828e53d7db5c51b1f19adb",
+        "size_in_bytes": 1254
+      },
+      {
+        "_path": "Library/include/libexslt/exsltexports.h",
+        "path_type": "hardlink",
+        "sha256": "d499bd2935e6d8551424867a57af94c39e721b404c50b5f7fe0a32c437762cbf",
+        "sha256_in_prefix": "d499bd2935e6d8551424867a57af94c39e721b404c50b5f7fe0a32c437762cbf",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "Library/include/libexslt/libexslt.h",
+        "path_type": "hardlink",
+        "sha256": "4163c440eb773bf58d0fa987c16ad344158a3488348620c630f88a9409dd0b99",
+        "sha256_in_prefix": "4163c440eb773bf58d0fa987c16ad344158a3488348620c630f88a9409dd0b99",
+        "size_in_bytes": 650
+      },
+      {
+        "_path": "Library/include/libxslt/attributes.h",
+        "path_type": "hardlink",
+        "sha256": "bf02423703962f136da1387866a7fd8e19713a3609fb67ba29b68310ceec1076",
+        "sha256_in_prefix": "bf02423703962f136da1387866a7fd8e19713a3609fb67ba29b68310ceec1076",
+        "size_in_bytes": 930
+      },
+      {
+        "_path": "Library/include/libxslt/documents.h",
+        "path_type": "hardlink",
+        "sha256": "9018a1807e69a91bc56a5866fdf3851ed2531614e905c9baf35c93e5dc60c1fc",
+        "sha256_in_prefix": "9018a1807e69a91bc56a5866fdf3851ed2531614e905c9baf35c93e5dc60c1fc",
+        "size_in_bytes": 2704
+      },
+      {
+        "_path": "Library/include/libxslt/extensions.h",
+        "path_type": "hardlink",
+        "sha256": "5b950cc89a943ffd73b7ab176749a07348002300c9ad9f208c1ca1cab5aabddf",
+        "sha256_in_prefix": "5b950cc89a943ffd73b7ab176749a07348002300c9ad9f208c1ca1cab5aabddf",
+        "size_in_bytes": 6899
+      },
+      {
+        "_path": "Library/include/libxslt/extra.h",
+        "path_type": "hardlink",
+        "sha256": "e97dd6bb735d3edae5ab3f8aa28edd07eadc7279ecce2ea3df3839f7d8130728",
+        "sha256_in_prefix": "e97dd6bb735d3edae5ab3f8aa28edd07eadc7279ecce2ea3df3839f7d8130728",
+        "size_in_bytes": 1640
+      },
+      {
+        "_path": "Library/include/libxslt/functions.h",
+        "path_type": "hardlink",
+        "sha256": "7dce02663fbd29e047ccef7e59653f6cdaa6684640cf79fb34dc02948057935e",
+        "sha256_in_prefix": "7dce02663fbd29e047ccef7e59653f6cdaa6684640cf79fb34dc02948057935e",
+        "size_in_bytes": 1972
+      },
+      {
+        "_path": "Library/include/libxslt/imports.h",
+        "path_type": "hardlink",
+        "sha256": "d7c9088e81aa7455d1eb709edd9b73c6c4e2615dd718aa5c8586a43143c3b942",
+        "sha256_in_prefix": "d7c9088e81aa7455d1eb709edd9b73c6c4e2615dd718aa5c8586a43143c3b942",
+        "size_in_bytes": 1840
+      },
+      {
+        "_path": "Library/include/libxslt/keys.h",
+        "path_type": "hardlink",
+        "sha256": "d7abf6e55125b92ee3621820ea0605c15c6018c9fed5cb67961856593e117016",
+        "sha256_in_prefix": "d7abf6e55125b92ee3621820ea0605c15c6018c9fed5cb67961856593e117016",
+        "size_in_bytes": 1155
+      },
+      {
+        "_path": "Library/include/libxslt/libxslt.h",
+        "path_type": "hardlink",
+        "sha256": "182479d890a1835bb96d69f6679cd201a202297fdfc75882da021690c9c1ceff",
+        "sha256_in_prefix": "182479d890a1835bb96d69f6679cd201a202297fdfc75882da021690c9c1ceff",
+        "size_in_bytes": 836
+      },
+      {
+        "_path": "Library/include/libxslt/namespaces.h",
+        "path_type": "hardlink",
+        "sha256": "5687d29f62a49fe6b927244a0a66378cfa7b6a6432de7d3dbf3cb429442de2ad",
+        "sha256_in_prefix": "5687d29f62a49fe6b927244a0a66378cfa7b6a6432de7d3dbf3cb429442de2ad",
+        "size_in_bytes": 1666
+      },
+      {
+        "_path": "Library/include/libxslt/numbersInternals.h",
+        "path_type": "hardlink",
+        "sha256": "120e60619e69de1d3f7b9c3223ad52fb413afc0ad5273bf4cabeb78fa054d9f7",
+        "sha256_in_prefix": "120e60619e69de1d3f7b9c3223ad52fb413afc0ad5273bf4cabeb78fa054d9f7",
+        "size_in_bytes": 2019
+      },
+      {
+        "_path": "Library/include/libxslt/pattern.h",
+        "path_type": "hardlink",
+        "sha256": "b49f813dfb3d51882264c3284196e18a3de0ef1569a58abb4ebacebb6e5e47b4",
+        "sha256_in_prefix": "b49f813dfb3d51882264c3284196e18a3de0ef1569a58abb4ebacebb6e5e47b4",
+        "size_in_bytes": 2110
+      },
+      {
+        "_path": "Library/include/libxslt/preproc.h",
+        "path_type": "hardlink",
+        "sha256": "0ff2e311d1e1b1dc819c402f7e59f0160a11e211946fbda480485792498f46cc",
+        "sha256_in_prefix": "0ff2e311d1e1b1dc819c402f7e59f0160a11e211946fbda480485792498f46cc",
+        "size_in_bytes": 896
+      },
+      {
+        "_path": "Library/include/libxslt/security.h",
+        "path_type": "hardlink",
+        "sha256": "7d40f5732fd6c45093bd334017458e408538a7908d5a7d4b1c5c9925df85c795",
+        "sha256_in_prefix": "7d40f5732fd6c45093bd334017458e408538a7908d5a7d4b1c5c9925df85c795",
+        "size_in_bytes": 2652
+      },
+      {
+        "_path": "Library/include/libxslt/templates.h",
+        "path_type": "hardlink",
+        "sha256": "6e7b7a26aba2e8a539a4d51d30d3db419919e5df954d6a82d1330690e955a08a",
+        "sha256_in_prefix": "6e7b7a26aba2e8a539a4d51d30d3db419919e5df954d6a82d1330690e955a08a",
+        "size_in_bytes": 2268
+      },
+      {
+        "_path": "Library/include/libxslt/transform.h",
+        "path_type": "hardlink",
+        "sha256": "2024fb99e515d0e4c0c76ed668a56b2a3f9a52647d2d2a5335a38025dd944ad8",
+        "sha256_in_prefix": "2024fb99e515d0e4c0c76ed668a56b2a3f9a52647d2d2a5335a38025dd944ad8",
+        "size_in_bytes": 6311
+      },
+      {
+        "_path": "Library/include/libxslt/trio.h",
+        "path_type": "hardlink",
+        "sha256": "c1389eb78fd55dc17e3627d0407a7f2852888380181c8ed613751c533524ff3f",
+        "sha256_in_prefix": "c1389eb78fd55dc17e3627d0407a7f2852888380181c8ed613751c533524ff3f",
+        "size_in_bytes": 7199
+      },
+      {
+        "_path": "Library/include/libxslt/triodef.h",
+        "path_type": "hardlink",
+        "sha256": "975f94d69e63d0e500762eec517a8be6627f4c16e6ccd2641ef59f4f22e9c75f",
+        "sha256_in_prefix": "975f94d69e63d0e500762eec517a8be6627f4c16e6ccd2641ef59f4f22e9c75f",
+        "size_in_bytes": 6692
+      },
+      {
+        "_path": "Library/include/libxslt/variables.h",
+        "path_type": "hardlink",
+        "sha256": "366ca988115308ceeefb691483fc99c45c2ada84c41b51058d81b8cdb7c6b38e",
+        "sha256_in_prefix": "366ca988115308ceeefb691483fc99c45c2ada84c41b51058d81b8cdb7c6b38e",
+        "size_in_bytes": 3173
+      },
+      {
+        "_path": "Library/include/libxslt/win32config.h",
+        "path_type": "hardlink",
+        "sha256": "d7cc0721fc155d4c8de41b13a386f1d9d534ee53d45440298dad7463a932a827",
+        "sha256_in_prefix": "d7cc0721fc155d4c8de41b13a386f1d9d534ee53d45440298dad7463a932a827",
+        "size_in_bytes": 1113
+      },
+      {
+        "_path": "Library/include/libxslt/xslt.h",
+        "path_type": "hardlink",
+        "sha256": "c26171d90df53ddf08ab6a61010a58f49dd041ab5bf255a0de0001b6a285804c",
+        "sha256_in_prefix": "c26171d90df53ddf08ab6a61010a58f49dd041ab5bf255a0de0001b6a285804c",
+        "size_in_bytes": 1964
+      },
+      {
+        "_path": "Library/include/libxslt/xsltInternals.h",
+        "path_type": "hardlink",
+        "sha256": "428ef33cd95ca9bf01bf3b9e07f7cc11238702c0bcd142df9b14f44f35a86e5a",
+        "sha256_in_prefix": "428ef33cd95ca9bf01bf3b9e07f7cc11238702c0bcd142df9b14f44f35a86e5a",
+        "size_in_bytes": 57608
+      },
+      {
+        "_path": "Library/include/libxslt/xsltconfig.h",
+        "path_type": "hardlink",
+        "sha256": "915ab1dc4f781ef407d8ea15a32e81a801c3351a0fbe7e916912b682ca98fb07",
+        "sha256_in_prefix": "915ab1dc4f781ef407d8ea15a32e81a801c3351a0fbe7e916912b682ca98fb07",
+        "size_in_bytes": 3819
+      },
+      {
+        "_path": "Library/include/libxslt/xsltexports.h",
+        "path_type": "hardlink",
+        "sha256": "d7e96e1fed1b0888010252805e157e76a1c17f038040d0da9a261bc489537f49",
+        "sha256_in_prefix": "d7e96e1fed1b0888010252805e157e76a1c17f038040d0da9a261bc489537f49",
+        "size_in_bytes": 1124
+      },
+      {
+        "_path": "Library/include/libxslt/xsltlocale.h",
+        "path_type": "hardlink",
+        "sha256": "92fd85c90cb52d89c606551aada9507e691dffb6e9acf5574d062db6b4f4d3a6",
+        "sha256_in_prefix": "92fd85c90cb52d89c606551aada9507e691dffb6e9acf5574d062db6b4f4d3a6",
+        "size_in_bytes": 1525
+      },
+      {
+        "_path": "Library/include/libxslt/xsltutils.h",
+        "path_type": "hardlink",
+        "sha256": "3b043a63c76c84ad5bf9d8f2f8bb4941bae162696aa8497917c8302b5ad70553",
+        "sha256_in_prefix": "3b043a63c76c84ad5bf9d8f2f8bb4941bae162696aa8497917c8302b5ad70553",
+        "size_in_bytes": 8250
+      },
+      {
+        "_path": "Library/lib/libexslt.lib",
+        "path_type": "hardlink",
+        "sha256": "52a41d08937144cc117374c35294431ca170afdfc2b4affc532be151e396f299",
+        "sha256_in_prefix": "52a41d08937144cc117374c35294431ca170afdfc2b4affc532be151e396f299",
+        "size_in_bytes": 5396
+      },
+      {
+        "_path": "Library/lib/libexslt_a.lib",
+        "path_type": "hardlink",
+        "sha256": "0ebf8d1114756cf25e63c2682fb54d7f2b466c904296997235e062c4a98da2e4",
+        "sha256_in_prefix": "0ebf8d1114756cf25e63c2682fb54d7f2b466c904296997235e062c4a98da2e4",
+        "size_in_bytes": 362030
+      },
+      {
+        "_path": "Library/lib/libxslt.lib",
+        "path_type": "hardlink",
+        "sha256": "63aa79964935864f3911c2ace5f48062c52ce89b34835bae62cc373a01979eb0",
+        "sha256_in_prefix": "63aa79964935864f3911c2ace5f48062c52ce89b34835bae62cc373a01979eb0",
+        "size_in_bytes": 56862
+      },
+      {
+        "_path": "Library/lib/libxslt_a.lib",
+        "path_type": "hardlink",
+        "sha256": "d2842b27079e6a0e921f557cff977763889d478b37b8894370ca6c73a004f250",
+        "sha256_in_prefix": "d2842b27079e6a0e921f557cff977763889d478b37b8894370ca6c73a004f250",
+        "size_in_bytes": 929824
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libexslt.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_968bvb3fts/croot/libxslt_1679578045579/_h_env",
+        "sha256": "1cb69185f18f269f718c898c199941caf3c3ac267b79c937a043581dcaae18eb",
+        "sha256_in_prefix": "3371464bfcb88ad449ede89e5181d071f657f4cc616cb740d1fe12e364e619b5",
+        "size_in_bytes": 463
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libxslt.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_968bvb3fts/croot/libxslt_1679578045579/_h_env",
+        "sha256": "1517eac4bc8ee71745db6579444a7d8b825704007129b31671303e0abbe2ffd8",
+        "sha256_in_prefix": "c2b84ea479658d76dc125315bb9799c7c7f67b90d595662d3efe1e487cfcb1d8",
+        "size_in_bytes": 452
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "54593b32db5973a74358e3dcb11fb9f5b950c8e1746748ca6d59d73c48494b94",
+  "size": 459154,
+  "subdir": "win-64",
+  "timestamp": 1679578155330,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libxslt-1.1.37-h2bbff1b_0.conda",
+  "version": "1.1.37"
+}
