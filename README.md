@@ -1,2 +1,1 @@
-# envs
-Scrapy Virtual environments
+web scraping from qarabazar.az
