@@ -1,2 +1,0 @@
-# Scrapy
-Scrapy Virtual environments
